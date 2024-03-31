@@ -1,0 +1,27 @@
+/* Write your code here. */
+.navbar {
+  display: flex;
+  background-color: #ffffff33;
+  width: 100%;
+  justify-content: space-between;
+  padding: 3px 50px;
+}
+.logo1 {
+  display: flex;
+  align-items: center;
+}
+.logo1 h1 {
+  font-size: 15px;
+  color: #fff;
+}
+.logo1 img {
+  width: 30px;
+  height: 30px;
+}
+.socringNav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 150px;
+  color: #fff;
+}

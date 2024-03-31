@@ -1,0 +1,37 @@
+/* Write your code here. */
+.wincontainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #ffffff33;
+  width: 70vw;
+  height: 60vh;
+  border-radius: 10px;
+  padding: 10px 30px;
+  text-align: center;
+}
+.wincontainer img {
+  width: 250px;
+}
+
+.wincontainer h1 {
+  color: #fff;
+}
+.wincontainer p {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+}
+.wincontainer button {
+  background: #ffce27;
+  font-size: 12px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  font-weight: 600;
+  border: 0;
+  cursor: pointer;
+}
+.result {
+  font-size: 30px;
+  color: #6a59ff;
+}
